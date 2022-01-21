@@ -10,7 +10,7 @@ Mee6 Python API
 
 This is the unofficial python API for mee6.
 
-This implements the api as per the Mee6 API docs located here: https://github.com/SilBoydens/Mee6-api-docs
+This implements the API as per the Mee6 API docs located here: https://github.com/SilBoydens/Mee6-api-docs
 
 This API is asynchronous.
 
@@ -35,7 +35,7 @@ First, import the package and create the API class. Replace your_guild_id with y
 Examples
 ~~~~~~~~~~~~~~~~~~~~~~~
 
-See the tests folder for some functional examples
+See the tests folder for some functional examples.
 
 Get a leaderboard page
 +++++++++++++++++++++++++
